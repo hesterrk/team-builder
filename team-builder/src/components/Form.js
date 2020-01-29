@@ -133,7 +133,7 @@ const eventChangeHandler = (event) => {
 {/* //passing down info to teamList  */}
 
 
-<TeamList membersubmit = {submitTeam} />
+<TeamList membersubmit = {submitTeam}  />
 
         </div>
     );
